@@ -1,0 +1,6 @@
+The purpose of this application is to demo on how we can use JPA
+
+H2 is at : http://localhost:8080/h2/ -- to query our employee db
+
+
+use this sample url to add employees to our h2 : http://localhost:8080/api/employees?name=pravalika&team=telecom_ecc
